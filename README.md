@@ -8,9 +8,6 @@ A Power BI dashboard that analyzes Twitter engagement metrics to uncover trends 
 - **Trends**: Weekly tweet activity, impressions, media engagement  
 - **Filters**: Month slicer for flexible analysis  
 
-## 📷 Dashboard Preview
-![Dashboard Screenshot](screenshots/dashboard.png)
-
 ## 🔍 Key Insights
 - Engagement trends across weekdays  
 - Media views vs. media engagements  
